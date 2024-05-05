@@ -1,9 +1,9 @@
 package ProjetosJava;
 
-import java.util.Locale;
 import java.util.Scanner;
+import java.util.Locale;
 
-public class Pratica2 {
+public class Projeto1 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
